@@ -1,2 +1,3 @@
 # nikhildemo
-my first repository
+my first repository.
+author nikhil khot
